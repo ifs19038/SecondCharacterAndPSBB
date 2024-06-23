@@ -1,0 +1,14 @@
+D:\DotNet\TestNawaData\SortCharacter\obj\Debug\net8.0\SortCharacter.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\TestNawaData\SortCharacter\obj\Debug\net8.0\SortCharacter.AssemblyInfoInputs.cache
+D:\DotNet\TestNawaData\SortCharacter\obj\Debug\net8.0\SortCharacter.AssemblyInfo.cs
+D:\DotNet\TestNawaData\SortCharacter\obj\Debug\net8.0\SortCharacter.csproj.CoreCompileInputs.cache
+D:\DotNet\TestNawaData\SortCharacter\bin\Debug\net8.0\SortCharacter.exe
+D:\DotNet\TestNawaData\SortCharacter\bin\Debug\net8.0\SortCharacter.deps.json
+D:\DotNet\TestNawaData\SortCharacter\bin\Debug\net8.0\SortCharacter.runtimeconfig.json
+D:\DotNet\TestNawaData\SortCharacter\bin\Debug\net8.0\SortCharacter.dll
+D:\DotNet\TestNawaData\SortCharacter\bin\Debug\net8.0\SortCharacter.pdb
+D:\DotNet\TestNawaData\SortCharacter\obj\Debug\net8.0\SortCharacter.dll
+D:\DotNet\TestNawaData\SortCharacter\obj\Debug\net8.0\refint\SortCharacter.dll
+D:\DotNet\TestNawaData\SortCharacter\obj\Debug\net8.0\SortCharacter.pdb
+D:\DotNet\TestNawaData\SortCharacter\obj\Debug\net8.0\SortCharacter.genruntimeconfig.cache
+D:\DotNet\TestNawaData\SortCharacter\obj\Debug\net8.0\ref\SortCharacter.dll

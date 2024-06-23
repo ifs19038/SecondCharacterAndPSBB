@@ -1,0 +1,14 @@
+D:\DotNet\TestNawaData\PSBB\bin\Debug\net8.0\PSBB.exe
+D:\DotNet\TestNawaData\PSBB\bin\Debug\net8.0\PSBB.deps.json
+D:\DotNet\TestNawaData\PSBB\bin\Debug\net8.0\PSBB.runtimeconfig.json
+D:\DotNet\TestNawaData\PSBB\bin\Debug\net8.0\PSBB.dll
+D:\DotNet\TestNawaData\PSBB\bin\Debug\net8.0\PSBB.pdb
+D:\DotNet\TestNawaData\PSBB\obj\Debug\net8.0\PSBB.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\TestNawaData\PSBB\obj\Debug\net8.0\PSBB.AssemblyInfoInputs.cache
+D:\DotNet\TestNawaData\PSBB\obj\Debug\net8.0\PSBB.AssemblyInfo.cs
+D:\DotNet\TestNawaData\PSBB\obj\Debug\net8.0\PSBB.csproj.CoreCompileInputs.cache
+D:\DotNet\TestNawaData\PSBB\obj\Debug\net8.0\PSBB.dll
+D:\DotNet\TestNawaData\PSBB\obj\Debug\net8.0\refint\PSBB.dll
+D:\DotNet\TestNawaData\PSBB\obj\Debug\net8.0\PSBB.pdb
+D:\DotNet\TestNawaData\PSBB\obj\Debug\net8.0\PSBB.genruntimeconfig.cache
+D:\DotNet\TestNawaData\PSBB\obj\Debug\net8.0\ref\PSBB.dll
